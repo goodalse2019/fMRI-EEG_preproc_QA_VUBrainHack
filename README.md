@@ -1,7 +1,5 @@
 # fMRI-EEG_preproc_QA_VUBrainHack
 
-### Short description and the goals for the BrainHack Vanderbilt
-
 ## INTRODUCTION
 We are working on developing a QA pipeline for simultaneously collected fMRI-EEG data so that the user can determine whether the data is denoised and clean enough for further analyses. 
 
