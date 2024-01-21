@@ -5,19 +5,6 @@ We are working on developing a QA pipeline for simultaneously collected fMRI-EEG
 
 Preprocessing is a critical step in neuroimaging analysis, laying the foundation for accurate and meaningful scientific discoveries. We need help configuring a pipeline to quality check for multiple datasets. This project will allow attendees with or without experience handling fMRI/EEG data to get a chance to work with what we call the "raw data". Working on a QC pipeline includes devising visuals of what the data looks like at various stages to make sure that the preprocessing is working as you expected and the data collected is good quality for future analyses. Toolboxes used include AFNI, FSL, ANTs, chronux, etc.
 
-## GOALS FOR THE BRAINHACK VANDERBILT
-- Brainstorm different QA checks that will best represent what we are looking for in the data
-- Learn more about the importance of various QA in fMRI and EEG data and how to best interpret our data
-- Code an automatic pipeline to implement our QA checks and outputs an html or pdf of the figures/results
-
-### Link to the Project
-
-https://github.com/goodalse2019/fMRI-EEG_preproc_QA_VUBrainHack
-
-### Project lead
-
-Sarah Goodale, Github: @goodalse2019
-
 ### Contributors
 Thanks to our BrainHack Vanderbilt contributors!
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -48,6 +35,20 @@ Thanks to our BrainHack Vanderbilt contributors!
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## GOALS FOR THE BRAINHACK VANDERBILT
+- Brainstorm different QA checks that will best represent what we are looking for in the data
+- Learn more about the importance of various QA in fMRI and EEG data and how to best interpret our data
+- Code an automatic pipeline to implement our QA checks and outputs an html or pdf of the figures/results
+
+### Link to the Project
+
+https://github.com/goodalse2019/fMRI-EEG_preproc_QA_VUBrainHack
+
+### Project lead
+
+Sarah Goodale, Github: @goodalse2019
+
 ### Main Hub
 
 Vanderbilt
