@@ -19,7 +19,7 @@ https://github.com/goodalse2019/fMRI-EEG_preproc_QA_VUBrainHack
 Sarah Goodale, Github: @goodalse2019
 
 ### Contributors
-Thanks to our contributors!
+Thanks to our BrainHack Vanderbilt contributors!
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
