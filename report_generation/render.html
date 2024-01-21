@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<!--- 
+      Developed by Cai Lemieux Mack (kailani.j.lemieux.mack@vanderbilt.edu)
+      for BrainHack Vanderbilt January 2024
+-->
+<!--- This is an example html template. This is completely customizable with html and css-->
+
+<!--  Note that we use {SubNum} as a placeholder for the subject number.
+      We also use {ImgPath} as a placeholder for the path to the png files.
+      These are relaced with the actual values before it is rendered -->
+<html>
+<head>
+  <title>PDF Example</title>
+<style>
+h1 {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+  </style>
+</head>
+<body>
+
+<h1>Subject {SubNum} Report</h1>
+<hr>
+
+<!-- This is the first section-->
+<h2>Motion Correction</h2>
+
+<h3>Fig. 1</h3>
+  <img src="{ImgPath}/QA_motpars.png" alt="No Image" width="600">
+<h3>Fig. 2</h3>
+  <img src="{ImgPath}/QA_FD.png" alt="No Image" width="600">
+<hr>
+
+<!-- This is the second  section-->
+<h2>Slice Timing Correction</h2>
+<div class="row">
+  <div class="column">
+  <h3>Fig. 3</h3>
+  <h4>[Title Stub]</h4>
+  <img src="{ImgPath}/pre_st_avg.png" alt="No Image" width="300">
+  </div>
+  <div class="column">
+  <h3>Fig. 4</h3>
+  <h4>[Title Stub]</h4>
+  <img src="{ImgPath}/post_st_avg.png" alt="No Image" width="300">
+  </div>
+</div>
+
+<hr>
+
+<!-- This is the third  section-->
+<h2>Tedana Multi-Echo Output</h2>
+<div class="row">
+  <div class="column">
+  <h3>Fig. 5</h3>
+  <img src="{ImgPath}/Kappa_figure.png" alt="No Image" width="300">
+  </div>
+  <div class="column">
+  <h3>Fig. 6</h3>
+  <img src="{ImgPath}/Rho_figure.png" alt="No Image" width="300">
+  </div>
+</div>
+
+<div class="row">
+    <div class="column">
+    <h3>Fig. 7</h3>
+    <img src="{ImgPath}/ICA_Component1.png" alt="No Image" width="300">
+    </div>
+    <div class="column">
+    <h3>Fig. 8</h3>
+    <img src="{ImgPath}/ICA_Component2.png" alt="No Image" width="300">
+    </div>
+</div>
+<!--
+<div class="row">
+  <div class="column">
+  -->
+  <h3>Fig. 9</h3>
+  <img src="{ImgPath}/Variance_Explained_View.png" alt="No Image" width="325">
+  <!--
+  </div>
+  <div class="column">
+  
+  </div>
+</div>
+-->
+
+
+<hr>
+
+<!-- This is the 4th  section-->
+<h2>Registration</h2>
+<h3>Fig. 10</h3>
+<h4>[Title Stub]</h4>
+  <img src="{ImgPath}/EPI2T1.png" alt="No Image" width="600">
+<h3>Fig. 11</h3>
+<h4>[Title Stub]</h4>
+  <img src="{ImgPath}/EPI2MNI.png" alt="No Image" width="600">
+
+
+<hr>
+
+<!-- This is the 5th  section-->
+<h2>Smoothing</h2>
+<div class="row">
+  <div class="column">
+  <h3>Fig. 12</h3>
+  <h4>[Title Stub]</h4>
+  <img src="{ImgPath}/pre_smoothing.png" alt="No Image" width="300">
+  </div>
+  <div class="column">
+  <h3>Fig. 13</h3>
+  <h4>[Title Stub]</h4>
+  <img src="{ImgPath}/post_smoothing.png" alt="No Image" width="300">
+  </div>
+</div>
+
+<hr>
+
+<!-- This is the 6thth  section-->
+<h2>Other</h2>
+
+<h3>Fig. 14</h3>
+  <img src="{ImgPath}/pre_proc_carpet.png" alt="No Image" width="600">
+<h3>Fig. 15</h3>
+  <img src="{ImgPath}/post_proc_carpet.png" alt="No Image" width="600">
+
+
+<h3>Fig. 16</h3>
+  <img src="{ImgPath}/QA_gssig.png" alt="No Image" width="600">
+<h3>Fig. 17</h3>
+<h4>[Title Stub]</h4>
+  <img src="{ImgPath}/QA_gscorr.png" alt="No Image" width="600">
+
+
+<div class="row">
+    <div class="column">
+    <h3>Fig. 18</h3>
+    <h4>[Title Stub]</h4>
+    <img src="{ImgPath}/QA_seeded_FC.png" alt="No Image" width="325">
+    </div>
+    <div class="column">
+    <!-- Nothing to see here... -->
+    </div>
+</div>
+
+</body>
+</html>
