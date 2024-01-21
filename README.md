@@ -19,8 +19,35 @@ https://github.com/goodalse2019/fMRI-EEG_preproc_QA_VUBrainHack
 Sarah Goodale, Github: @goodalse2019
 
 ### Contributors
+Thanks to our contributors!
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/goodalse2019"><img src="https://avatars.githubusercontent.com/u/60117796?v=4" width="100px;" alt=""/><br /><sub> 
+    <b>Sarah Goodale</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Vivian-X-Ma"><img src="https://avatars.githubusercontent.com/u/66750970?v=4" width="100px;" alt=""/><br /><sub> 
+    <b>Vivian Ma</b></sub></a></td>
+    <td align="center"><a href="https://github.com/ansleykunnath"><img src="https://avatars.githubusercontent.com/u/105886551?v=4" width="100px;" alt=""/><br / <sub> 
+    <b>Ansley Kunnath</b></sub></a></td>
+    <td align="center"><a href="https://github.com/tiesmaaj"><img src="https://avatars.githubusercontent.com/u/115488960?v=4" width="100px;" alt=""/><br /><sub> 
+    <b>Adam Tiesman</b></sub></a></td>    
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/liaoe2"><img src="https://avatars.githubusercontent.com/u/135634011?v=4" width="100px;" alt=""/><br /><sub> 
+    <b>Emily Liao</b></sub></a></td>
+    <td align="center"><a href="https://github.com/cailemieuxmack"><img src="https://avatars.githubusercontent.com/u/41303884?v=4" width="100px;" alt=""/><br /><sub> 
+    <b>Cai Lemieux Mack</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Quackywil"><img src="https://avatars.githubusercontent.com/u/81832443?v=4" width="100px;" alt=""/><br /><sub> 
+    <b>William Quackenbush</b></sub></a></td> 
+  </tr>
+  </table>
 
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 ### Main Hub
 
 Vanderbilt
